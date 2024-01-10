@@ -1,5 +1,5 @@
 // ------------------------------------------------------------------------------- //
-// Advanced Kalman Filtering and Sensor Fusion Course - Linear Kalman Filter
+//  Linear Kalman Filter
 //
 // 
 //

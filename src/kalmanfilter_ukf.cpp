@@ -1,5 +1,5 @@
 // ------------------------------------------------------------------------------- //
-// Advanced Kalman Filtering and Sensor Fusion Course - Unscented Kalman Filter
+//  Unscented Kalman Filter
 //
 // 
 //
